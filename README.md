@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cloud.natyx.net/api_natyx/logo/logo.png" width="256">
+<img src="https://natyx.net/assets/img/logo.webp" width="256">
 </p>
 
 ## Kirno
