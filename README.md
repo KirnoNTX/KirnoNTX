@@ -3,7 +3,7 @@
 </p>
 
 ## Kirno
-📫 Add me on dsicord : Kirno#1234.
+📫 Add me on dsicord : Kirno
 ```
 V2 is coming
 ```
