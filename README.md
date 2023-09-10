@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-  <a href="">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)</a>
-  <a href="">![version](https://img.shields.io/badge/version-1.8.2-blue)</a>
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)</a>
+  ![version](https://img.shields.io/badge/version-1.8.2-blue)</a>
 </div>
 
 ## Kirno
