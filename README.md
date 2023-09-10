@@ -2,11 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://natyx.net/assets/img/logo.webp" width="100">
 </div>
+<div id="header" align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)
+</div>
 
 ## Kirno
 📫 Add me on dsicord : Kirno
 
-
+## What I can do
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,12 +25,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-```
-V2 is coming
-```
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)
 ## Natyx
 👋 Official Link
 - [Site Web](https://natyx.net)
 - [Discord](https://discord.gg/nBYkTCqRYr)
+
+```
+V2 is coming
+```
