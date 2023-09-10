@@ -2,8 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <img src="https://natyx.net/assets/img/logo.webp" width="100">
 </div>
-<div id="header" align="center">
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)
+
+<div align="center">
+  <a href="">![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)</a>
+  <a href="">![version](https://img.shields.io/badge/version-1.8.2-blue)</a>
 </div>
 
 ## Kirno
