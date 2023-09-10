@@ -4,8 +4,10 @@
 </div>
 
 <div align="center">
+  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KirnoDEV)</a>
 ![version](https://img.shields.io/badge/version-1.8.2-blue)</a>
+
 </div>
 
 ## Kirno
