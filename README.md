@@ -33,7 +33,7 @@
 
 ## Natyx
 👋 Official Link
-- [Site Web](https://natyx.net)
+- [Website](https://natyx.net)
 - [Discord](https://discord.gg/nBYkTCqRYr)
 
 ```
