@@ -35,7 +35,10 @@
 ## Natyx
 👋 Official Link
 - [Website](https://natyx.net)
+- [nCloud](https://ncloud.natyx.net)
+- [nHost](https://nhost.natyx.net)
 - [Discord](https://discord.gg/nBYkTCqRYr)
+- [Status](https://status.natyx.net/) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/xtro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ```
 V2 is coming
