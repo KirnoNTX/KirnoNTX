@@ -32,13 +32,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Natyx
+## Natyx [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/xtro.svg)](https://status.natyx.net)
 👋 Official Link
 - [Website](https://natyx.net)
 - [nCloud](https://ncloud.natyx.net)
 - [nHost](https://nhost.natyx.net)
 - [Discord](https://discord.gg/nBYkTCqRYr)
-- [Status](https://status.natyx.net/) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/xtro.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ```
 V2 is coming
