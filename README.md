@@ -40,5 +40,5 @@
 - [Discord](https://discord.gg/nBYkTCqRYr)
 
 ```
-V2 is coming
+V2 has been released
 ```
