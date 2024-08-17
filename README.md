@@ -36,7 +36,6 @@
 👋 Official Link
 - [Website](https://natyx.net)
 - [nCloud](https://ncloud.natyx.net)
-- [nHost](https://nhost.natyx.net)
 - [Discord](https://discord.natyx.net)
 
 ```
