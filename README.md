@@ -13,6 +13,12 @@
 ## Kirno
 📫 Add me on dsicord : Kirno
 
+## Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KirnoNTX&show_icons=true&locale=en" alt="KirnoNTX" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KirnoNTX&" alt="KirnoNTX" /></p>
+
 ## What I can do
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
