@@ -33,9 +33,21 @@
 ## Natyx  -  [![Status Badge](https://uptime.2222.ovh/api/badge/69/status)](https://status.natyx.net)
 👋 Official Link
 - [Website](https://natyx.net)
+
+- [nApi](https://api.natyx.net)
+- [nCDN](https://ncdn.natyx.net/home)
 - [nCloud](https://ncloud.natyx.net)
+- [nDB](https://npanel.natyx.net/phpmyadmin/)
+- [nHost](https://nhost.natyx.net)
+- [nMail](https://nmail.natyx.net)
+- [nPanel](https://npanel.natyx.net)
+- [nPass](https://npass.natyx.net)
+- [nSearch](https://nsear.ch)
+- [nSend](https://nsend.natyx.net)
+- [nWeb](https://nweb.natyx.net)
+
 - [Discord](https://discord.natyx.net)
 
 ```
-V2 has been released
+V3 has been released
 ```
