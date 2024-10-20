@@ -70,7 +70,12 @@
   <a href="https://nweb.natyx.net">nWeb</a>
 </div>
 <div align="center">
-  <a href="https://discord.natyx.net">Discord</a>
+  <a href="https://discord.natyx.net">Natyx Discord</a>
+</div>
+<br>
+<br>
+<div align="center">
+  <a href="https://discordapp.com/users/423164221602267150">My Discord</a>
 </div>
 
 ---
