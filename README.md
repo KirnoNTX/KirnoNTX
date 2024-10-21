@@ -49,7 +49,7 @@
 ---
 
 <div align="center">
-  ## 👋 Natyx - Official Link
+  👋 Natyx - Official Link
 
   [![Status Badge](https://uptime.2222.ovh/api/badge/69/status)](https://status.natyx.net)
 </div>
