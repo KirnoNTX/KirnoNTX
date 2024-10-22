@@ -28,19 +28,20 @@
 <!-- What i can do icon -->
 <br>
 <div id="i-can-do" align="center">
-  <img src="https://ncdn.natyx.net/jOzO5/VidaPEDU44/raw.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/CIpImIWA66/raw.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/mAheMoPE60/raw.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/tAXOZoko62/raw.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/GogaQaxO94/raw.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/gIkozIwA94/raw.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/WAGeKULe22/raw.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/MovOraqo82/raw.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/vAyoYORe01/raw.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/JIjENoXi74/raw.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/kEKihifU86/raw.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/XACESaTE48/raw.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://ncdn.natyx.net/jOzO5/HODAFEKO08/raw.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/gh-proxmox/raw.png" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 <!-- Natyx section -->
