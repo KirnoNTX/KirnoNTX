@@ -28,20 +28,20 @@
 <!-- What i can do icon -->
 <br>
 <div id="i-can-do" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-react/raw.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-css/raw.png"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-html/raw.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-java/raw.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-firebase/raw.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-mysql/raw.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-nodejs/raw.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-aws/raw.png" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-lua/raw.png" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-c/raw.png" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-python/raw.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://ncdn.natyx.net/jOzO5/gh-proxmox/raw.png" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://ncdn.natyx.net/jOzO5/github-icon-git/raw.png" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <!-- Natyx section -->
