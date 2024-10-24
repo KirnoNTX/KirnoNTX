@@ -61,6 +61,7 @@
 <div align="center">
   <strong>👋 Natyx - Official Link</strong>
   <br>
+
   [![Status Badge](https://uptime.2222.ovh/api/badge/69/status)](https://status.natyx.net)
 </div>
 <div align="center">
