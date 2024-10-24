@@ -47,7 +47,7 @@
 <!-- What i learn do icon -->
 <br>
 <div id="i-can-do" align="center">
-  💡 Currently learning
+  <strong>💡 Currently learning</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="40" height="40"/>
@@ -59,8 +59,8 @@
 ---
 
 <div align="center">
-  👋 Natyx - Official Link
-
+  <strong>👋 Natyx - Official Link</strong>
+  <br>
   [![Status Badge](https://uptime.2222.ovh/api/badge/69/status)](https://status.natyx.net)
 </div>
 <div align="center">
