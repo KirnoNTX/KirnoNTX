@@ -94,7 +94,7 @@
 
 <!-- Short note -->
 ```
-📫 Add me on dsicord : Kirno
+📫 Add me on discord : Kirno
 ```
 ```
 📖 Learn ₿itcoin | Bitcoin.org
