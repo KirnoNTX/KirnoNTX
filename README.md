@@ -91,7 +91,6 @@
   <a href="https://npanel.natyx.net">nPanel</a> | 
   <a href="https://npass.natyx.net">nPass</a> | 
   <a href="https://nsear.ch">nSearch</a> | 
-  <a href="https://nsend.natyx.net">nSend</a> | 
   <a href="https://nweb.natyx.net">nWeb</a>
 </div>
 <div align="center">
