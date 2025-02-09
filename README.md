@@ -84,14 +84,13 @@
 </div>
 <div align="center">
   <a href="https://api.natyx.net">nApi</a> | 
-  <a href="https://ncdn.natyx.net/home">nCDN</a> | 
+  <a href="https://ncdn.natyx.net">nCDN</a> | 
   <a href="https://ncloud.natyx.net">nCloud</a> | 
-  <a href="https://npanel.natyx.net/phpmyadmin/">nDB</a> | 
+  <a href="https://ndb.natyx.net">nDB</a> | 
   <a href="https://nhost.natyx.net">nHost</a> | 
   <a href="https://nmail.natyx.net">nMail</a> | 
   <a href="https://npanel.natyx.net">nPanel</a> | 
   <a href="https://npass.natyx.net">nPass</a> | 
-  <a href="https://nsear.ch">nSearch</a> | 
   <a href="https://nweb.natyx.net">nWeb</a>
 </div>
 <div align="center">
