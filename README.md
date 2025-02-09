@@ -23,7 +23,7 @@
 
 <!-- What i can do icon Languages -->
 <br>
-<div id="i-can-do" align="center">
+<div align="center">
   <strong>✨ Languages</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@
 
 <!-- What i can do icon Tools -->
 <br>
-<div id="i-can-do" align="center">
+<div align="center">
   <strong>🔧 Tools</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp;
@@ -58,9 +58,9 @@
   <br>
 </div>
 
-<!-- What i learn do icon -->
+<!-- Currently learning icon-->
 <br>
-<div id="i-can-do" align="center">
+<div align="center">
   <strong>💡 Currently learning</strong>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
