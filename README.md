@@ -19,7 +19,6 @@
 <p align="center">
   <a href="https://natyx.net"><img src="https://streak-stats.demolab.com?user=KirnoNTX&theme=transparent" alt="KirnoNTX" /></a>
   <a href="https://natyx.net"><img src="https://github-readme-stats.vercel.app/api?username=KirnoNTX&theme=transparent&show_icons=true&locale=en" alt="KirnoNTX" /></a>
-  <a href="https://natyx.net"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirnoNTX&theme=transparent" alt="KirnoNTX" /></a>
 </p>
 
 <!-- What i can do icon Languages -->
@@ -112,3 +111,9 @@
 ```
 📖 Learn ₿itcoin | Bitcoin.org
 ```
+
+<!-- Last widget -->
+<br>
+<p align="center">
+  <a href="https://natyx.net"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KirnoNTX&theme=transparent" alt="KirnoNTX" /></a>
+</p>
