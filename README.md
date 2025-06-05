@@ -3,7 +3,7 @@
   <h3 align="center">⌨️ My ReadMe</h3>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Kirno;Welcome+on+my+Github&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://natyx.net"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Kirno;Welcome+on+my+Github&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="KirnoNTX"></a>
 </p>
 
 <!-- Tag & icon -->
